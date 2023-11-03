@@ -8,7 +8,7 @@ The Employee Tracker is a command-line application built with Node.js, Inquirer,
 
 
 ## Walkthrough Video
-For a demonstration of how to use this README generator, please watch the [walkthrough video](https://drive.google.com/file/d/1mPNAlsewinONBI_nHmc1lKVz80aHP9RF/view).
+For a demonstration of how to use this README generator, please watch the [walkthrough video](https://drive.google.com/file/d/1ybNIFAGHw6JU6xf6n7bVP_ZpzPg-43n-/view).
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
